@@ -8339,3 +8339,13 @@ h6 {
 .fa-github {
     font-size: 25px;
 }
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.row-image {
+    padding: 3px;
+    width: 300px;
+}
