@@ -286,7 +286,7 @@ button:focus,
 
 /* line 132, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_common.scss */
 .section_bg_2 {
-    background-color: #162b45;
+    background-color: #5dc5fd;
 }
 
 /* line 135, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_common.scss */
@@ -3124,7 +3124,7 @@ ul {
 .banner_part .banner_text h2 {
     font-size: 100px;
     text-transform: capitalize;
-    font-family: "Poppins", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 800;
     line-height: 90px;
     text-transform: uppercase;
@@ -3667,7 +3667,7 @@ ul {
 .about_part .about_text h4 {
     margin-bottom: 30px;
     font-size: 20px;
-    font-family: "Oswald", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 400;
     line-height: 1.5;
 }
@@ -4057,7 +4057,7 @@ ul {
 
 /* line 2, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_happy_client.scss */
 .happy_client {
-    background-color: #162b45;
+    background-color: #5dc5fd;
     padding: 70px 0px 50px;
 }
 @media (max-width: 576px) {
@@ -4241,7 +4241,7 @@ ul {
     margin-bottom: 26px;
     font-size: 22px;
     color: #fff;
-    font-family: "Oswald", sans-serif;
+    font-family: "Roboto", sans-serif;
     -webkit-transition: 0.6s;
     transition: 0.6s;
 }
@@ -4581,7 +4581,7 @@ ul {
 .review_part .client_review_text h3 {
     font-size: 20px;
     font-weight: 500;
-    font-family: "Oswald", sans-serif;
+    font-family: "Roboto", sans-serif;
     margin-bottom: 5px;
 }
 
@@ -5568,7 +5568,7 @@ ul {
 
 /* line 2, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_copyright_part.scss */
 .copyright_part {
-    background-color: #303030;
+    background-color: #fffff;
     padding: 26px 0px;
 }
 
@@ -5652,7 +5652,7 @@ ul {
 
 /* line 2, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_team.scss */
 .team_member_section {
-    background-color: #162b45;
+    background-color: #5dc5fd;
 }
 @media (max-width: 576px) {
     /* line 2, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_team.scss */
@@ -6279,7 +6279,7 @@ ul {
 /* line 170, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_project_details.scss */
 .pre_icon a {
     color: #2f373d;
-    font-family: "Oswald", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
 }
 
@@ -6523,7 +6523,7 @@ ul {
 /* line 146, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_project_details.scss */
 .next_icon a {
     color: #2f373d;
-    font-family: "Oswald", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
 }
 
@@ -6553,7 +6553,7 @@ ul {
 /* line 170, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_project_details.scss */
 .pre_icon a {
     color: #2f373d;
-    font-family: "Oswald", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
 }
 
@@ -7984,7 +7984,7 @@ h6 {
 
 /* line 2, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_footer.scss */
 .footer-area {
-    background-color: #162b45;
+    background-color: #5dc5fd;
     padding: 100px 0px 20px;
 }
 @media (max-width: 991px) {
@@ -8014,7 +8014,7 @@ h6 {
 
 /* line 19, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_footer.scss */
 .footer-area .single-footer-widget p {
-    color: #abb2ba;
+    color: black;
     font-size: 14px;
     line-height: 1.8;
 }
